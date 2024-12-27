@@ -1,2 +1,2 @@
 # Nk
-this is my  first h git repository
+this is my  first git repository
